@@ -1,0 +1,25 @@
+{
+  "name": "projects-node",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzparulina/nodeproject.git"
+  },
+  "author": "pauline revilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzparulina/nodeproject/issues"
+  },
+  "homepage": "https://github.com/mzparulina/nodeproject#readme",
+  "dependencies": {
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
